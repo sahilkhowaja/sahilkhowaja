@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Khowaja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote  
-![Quote](https://zenquotes.io/api/image)
+![Quote](https://programming-quotes-api.herokuapp.com/quotes/random/plain)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sahil-Khowaja&icon=0&color=0)](https://visitcount.itsvg.in)
