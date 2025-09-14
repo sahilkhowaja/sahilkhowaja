@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=radixui&logoColor=white" />
 </p>
 
-### ⚙️ Backend (Learning)
+### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
