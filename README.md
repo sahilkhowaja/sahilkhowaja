@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Sahil Khowaja
 
-🎯 **Frontend Developer** | 🚀 Learning Backend Development  
-💻 Passionate about building clean, responsive UIs and diving deep into full-stack web development.
+🎯 **Full-Stack Developer** | 💻 Building seamless web experiences
+🚀 Skilled in creating clean, responsive UIs and robust backend systems, turning ideas into fully functional applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧩 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,6 +23,7 @@
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -32,35 +34,22 @@
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-FF5722?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-00BFFF?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-F8A626?style=for-the-badge&logo=cPanel&logoColor=white" />
 </p>
 
----
 
-## 🌱 Currently Exploring
-
-- Backend REST API development with Node & Express  
-- Authentication (JWT, OAuth)  
-- Integrating frontend and backend into full-stack apps
-
----
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-Khowaja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilkhowaja)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilk.expinsoft.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SahilKhowaja)
-
-
----
-
-## 🚧 Projects Coming Soon...
-
-Stay tuned for full-stack applications showing my frontend-to-backend journey!
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sahil-Khowaja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sahilkhowaja)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sahilk.expinsoft.com)
