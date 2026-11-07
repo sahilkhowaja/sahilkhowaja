@@ -1,55 +1,59 @@
-# 👋 Hi, I'm Sahil Khowaja
 
-🎯 **Full-Stack Developer** | 💻 Building seamless web experiences
-🚀 Skilled in creating clean, responsive UIs and robust backend systems, turning ideas into fully functional applications.
+# Hi, I'm Sahil Khowaja 👋
+
+### Software Engineer | Full-Stack Development | Backend Systems & Cloud Infrastructure
+
+I'm a Full-Stack Developer at **[Expinsoft](https://expinsoft.com)**, working across software development, backend systems, databases, cloud infrastructure, and DevOps.
+
+I enjoy understanding how software works beyond the interface, from designing APIs and structuring databases to deploying and maintaining applications.
+
+- 🔭 **Currently:** Full-Stack Developer at Expinsoft
+- 🏗️ **Engineering Interests:** Software Architecture, System Design, Backend Engineering
+- ☁️ **Infrastructure:** AWS, Docker, Linux, VPS, Nginx, CI/CD
+- 🧠 **Learning:** Data Structures & Algorithms, Design Patterns, Scalability, Software Testing
+- 🤝 **Open to:** Technical collaboration and software engineering opportunities
+
+---
+
+## 🧠 Software Engineering & Core Competencies
+
+- **Software Engineering:** Software Design, Modular Architecture, Object-Oriented Programming, SOLID Principles
+- **Backend Engineering:** REST API Design, Authentication, Authorization, Backend Services, System Integration
+- **System Design:** Client-Server Architecture, Scalability Fundamentals, Caching, Load Balancing
+- **Database Engineering:** Relational Database Design, Data Modeling, SQL, Database Transactions
+- **Cloud & DevOps:** Containerization, Linux Server Administration, Cloud Deployment, CI/CD Pipelines
+- **Software Quality:** Debugging, Error Handling, Code Refactoring, Testing, Version Control
+- **Computer Science:** Data Structures & Algorithms, Networking Fundamentals, Operating Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧩 Frontend
+### Frontend
+React.js · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Material UI · shadcn/ui
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=radixui&logoColor=white" />
-</p>
+### Backend & Databases
+Node.js · Express.js · REST APIs · PostgreSQL · MySQL · MongoDB · Mongoose · Sequelize · Supabase · Firebase
 
-### ⚙️ Backend
+### Cloud, DevOps & Tools
+AWS · Docker · Linux · Nginx · VPS · CI/CD · GitHub Actions · Git · GitHub · Vercel · Hostinger · Postman
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
-</p>
+---
 
-### 🛠️ Tools & Platforms
+## 🚀 Areas of Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-FF5722?style=for-the-badge&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-00BFFF?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-F8A626?style=for-the-badge&logo=cPanel&logoColor=white" />
-</p>
+- Building maintainable full-stack applications
+- Designing backend APIs and database-driven systems
+- Working with cloud infrastructure and deployment pipelines
+- Improving application reliability, performance, and security
+- Strengthening system design and software architecture skills
 
-
+---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sahil-Khowaja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sahilkhowaja)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sahilk.expinsoft.com)
+🌐 **Portfolio:** https://sahilk.expinsoft.com
+
+💼 **LinkedIn:** https://linkedin.com/in/sahilkhowaja
+
+💻 **GitHub:** https://github.com/Sahil-Khowaja
